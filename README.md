@@ -11,7 +11,6 @@
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Demo](#demo)
 - [License](#license)
 
