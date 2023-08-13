@@ -1,0 +1,17 @@
+{
+    "name": "nutech_challenge",
+    "version": "1.0.0",
+    "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "server": "nodemon server/server",
+        "client": "npm run start --prefix client",
+        "dev": "concurrently \"npm run server\" \"npm run client\""
+    },
+    "author": "Moch. Raditya Aulya Aramdhan",
+    "license": "ISC",
+    "dependencies": {
+        "concurrently": "^8.2.0"
+    }
+}
