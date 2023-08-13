@@ -17,6 +17,7 @@
 ## Description
 
 [go to Table of Contents](#table-of-contents)
+
 This is an e-commerce website built using ReactJS and Tailwind CSS. It utilizes Redux for state management, Firebase as the database, and Google OAuth for user authentication. The website provides CRUD functionalities for managing products, allowing users to add, view, edit, and delete products in their inventory.
 
 ## Features
