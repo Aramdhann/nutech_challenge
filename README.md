@@ -57,7 +57,7 @@ Follow these instructions to get the project up and running on your local machin
 ## Demo
 
 [go to Table of Contents](#table-of-contents)
-You can check out a live demo of the website [here](https://your-demo-link.com).
+You can check out a live demo of the website [here](https://nutech-challenge-deploy.vercel.app/).
 
 ## License
 
