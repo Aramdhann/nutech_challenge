@@ -78,7 +78,7 @@ const Footer = () => {
                     <span className='hover:text-white duration-300 cursor-pointer'>
                         <AiOutlineHeart />
                     </span>
-                    By Moch. Raditya Aulya Aramdhan © 2021
+                    By Moch. Raditya Aulya Aramdhan © 2023
                 </p>
             </div>
         </div>
