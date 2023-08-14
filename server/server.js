@@ -18,7 +18,7 @@ app.post("/pay", async (req, res) => { //   ini untuk proses pembayaran
   await Stripe.charges.create({
     source: req.body.token.id,
     amount: req.body.amount,
-    currency: "inr",
+    currency: "idr",
   });
 });
 
